@@ -1,6 +1,6 @@
 body{
-	
-	
+
+
 }
 .navbar{
 	font-family: 'Montserrat', sans-serif;
@@ -11,7 +11,7 @@ body{
 }
 .top{
 	text-align: center;
-	background-color: /*#f78259;*/   /*#eb4559;*/  #084177;
+	background-color: /*#f78259;*/   /*#eb4559;*/  /*#084177;*/ #16a596;
 	color: white;
 }
 
